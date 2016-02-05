@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+this is a c programmer!
 1
 2
 3
